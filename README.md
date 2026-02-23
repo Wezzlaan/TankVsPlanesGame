@@ -2,6 +2,8 @@
 
 A fast-paced 2D arcade shooter built with the **FXGL Game Engine**. Take control of a tank, defend your territory against waves of escalating aerial threats, and utilize a variety of power-ups to survive the onslaught.
 
+![Alt text](screenshots/Gameplay.png)
+
 ---
 
 ## 🎮 Game Features
